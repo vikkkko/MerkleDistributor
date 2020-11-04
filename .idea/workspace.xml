@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02dc1961-df6e-44c7-b43d-19108735e587" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.3/libexec" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1hlrwdBHYyKuL8aP8yOrUi7vvUl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Go 测试.TestBuildMerkleTree在MerkleDistributor">
+    <configuration name="TestBuildMerkleTree在MerkleDistributor" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="MerkleDistributor" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="MerkleDistributor" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestBuildMerkleTree$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestBuildMerkleTree在github.com/MerkleDistributor" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="MerkleDistributor" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/MerkleDistributor" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestBuildMerkleTree$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestConbinedHash在MerkleDistributor" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="MerkleDistributor" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="MerkleDistributor" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestConbinedHash$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestConbinedHash在github.com/MerkleDistributor" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="MerkleDistributor" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/MerkleDistributor" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestConbinedHash$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestToContent在github.com/MerkleDistributor" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="MerkleDistributor" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/MerkleDistributor" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestToContent$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test MerkleDistributor" type="GoTestRunConfiguration" factoryName="Go Test" nameIsGenerated="true">
+      <module name="MerkleDistributor" />
+      <working_directory value="$PROJECT_DIR$" />
+      <envs>
+        <env name="GOPATH" value="$PROJECT_DIR$/../" />
+      </envs>
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="MerkleDistributor" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go 测试.TestBuildMerkleTree在MerkleDistributor" />
+        <item itemvalue="Go 测试.TestConbinedHash在MerkleDistributor" />
+        <item itemvalue="Go 测试.TestToContent在github.com/MerkleDistributor" />
+        <item itemvalue="Go 测试.TestConbinedHash在github.com/MerkleDistributor" />
+        <item itemvalue="Go 测试.TestBuildMerkleTree在github.com/MerkleDistributor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02dc1961-df6e-44c7-b43d-19108735e587" name="默认的" comment="" />
+      <created>1600596759690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600596759690</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="365" key="#Go_modules" timestamp="1600621618253">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="640" y="365" key="#Go_modules/0.0.1680.1050@0.0.1680.1050" timestamp="1600621618253" />
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600616780937">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1600616780937" />
+    <state width="690" height="466" key="DebuggerActiveHint" timestamp="1600670759489">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="690" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1600670759489" />
+    <state x="746" y="257" width="648" height="535" key="EnvironmentVariablesDialog" timestamp="1600613452893">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="746" y="257" width="648" height="535" key="EnvironmentVariablesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1600613452893" />
+    <state width="1638" height="364" key="GridCell.Tab.0.bottom" timestamp="1602298532463">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1602298532463" />
+    <state width="1638" height="364" key="GridCell.Tab.0.center" timestamp="1602298532462">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1602298532462" />
+    <state width="1638" height="364" key="GridCell.Tab.0.left" timestamp="1602298532461">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1602298532461" />
+    <state width="1638" height="364" key="GridCell.Tab.0.right" timestamp="1602298532463">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1602298532463" />
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom" timestamp="1602298532465">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1602298532465" />
+    <state width="1638" height="364" key="GridCell.Tab.1.center" timestamp="1602298532464">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1602298532464" />
+    <state width="1638" height="364" key="GridCell.Tab.1.left" timestamp="1602298532464">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1602298532464" />
+    <state width="1638" height="364" key="GridCell.Tab.1.right" timestamp="1602298532465">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1602298532465" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MerkleDistributor$TestBuildMerkleTreegithub_com_MerkleDistributor.out" NAME="TestBuildMerkleTree在github.com/MerkleDistributor Coverage Results" MODIFIED="1600670511757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/MerkleDistributor$TestToContentgithub_com_MerkleDistributor.out" NAME="TestToContent在github.com/MerkleDistributor Coverage Results" MODIFIED="1600694238723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
